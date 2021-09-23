@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Guilherme Lima de Souza
 
-You can use the [editor on GitHub](https://github.com/GuiLima2304/GuiLima2304.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
+Here you can know about me, what I like, about I  work and my projects, welcome!
+I'm 24 years old, I'm student of system informations, I'm from Brazil but my currently goal is live abroad.
+I like code different things like bots, API's and system, whatever is backend or frontend.
+The languages that I like to work is Javascript/Typescript, Python and C#.
+Fun fact: my dog called Freeway.
 
 ### Markdown
 
